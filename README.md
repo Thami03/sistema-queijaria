@@ -8,7 +8,7 @@
 O sistema em si foi desenvolvido com o objetivo de ajudar pequenas queijarias,
 auxiliando de diversas maneiras, como no estoque, no setor financeiro e em vendas.
 #
-##Funcionalidades
+## Funcionalidades
  O administrador do Sistema tem acesso ao sua queijaria virtual contendo:
 
  Dashboard com estatísticas ;
