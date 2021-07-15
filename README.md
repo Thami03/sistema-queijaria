@@ -1,6 +1,6 @@
 # Sistema de Gestão de Queijarias
 
-![alt text](http://url/to/Queijo-1jpg)
+![https://independente.sfo2.digitaloceanspaces.com/2018/11/Queijo-1.jpg](http://url/to/Queijo-1jpg)
 
 [Queijo-1.jpg](https://independente.sfo2.digitaloceanspaces.com/2018/11/Queijo-1.jpg) 
 
