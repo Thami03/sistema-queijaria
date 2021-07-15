@@ -1,5 +1,7 @@
 # Sistema de Gestão de Queijarias
 
+![alt text](http://url/to/Queijo-1jpg)
+
 [Queijo-1.jpg](https://independente.sfo2.digitaloceanspaces.com/2018/11/Queijo-1.jpg) 
 
 For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
