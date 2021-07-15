@@ -1,0 +1,70 @@
+
+#login{
+	background-color:white;
+	position: absolute;
+	top:19%;
+	width:31%;
+	height:46%;
+	left: 57%;
+	right: 50%;
+	padding:25px 30px 15px 15px;
+	text-align:center;
+	border-radius: 10px;
+}
+
+.login{
+	color: black;
+	width: 99%;
+	border;
+	height:17%;
+	left:15%;
+	margin-bottom:13px;
+	text-align:left;
+	background-color:none;
+	border-radius: 5px;
+	font-size:100%;
+}
+
+ button {	
+	border-radius: 7px;
+	
+}
+#titulos{
+	position: absolute;
+	height:25%;
+	right:55%;
+	top:15%;
+	width:35%;
+	text-align: left;
+}
+
+.btn-hover{min-height: 45px; width: 200px; 
+border-radius: 6px; border: 0px white; 
+background-color: rgb(149, 165, 166);
+font-family: "Do Hyeon", sans-serif;}.btn-hover:hover{}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
