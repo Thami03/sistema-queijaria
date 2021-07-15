@@ -5,7 +5,7 @@
 
 
 ## Sobre o projeto
-
+O sistema em si foi desenvolvido com o objetivo de ajudar pequenas queijarias, auxiliando de diversas maneiras, como no estoque, no setor financeiro e em vendas.
 
 ## Copyright and License 
 
